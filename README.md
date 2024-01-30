@@ -1,7 +1,7 @@
 ### <p align="center"> ⚡ Welcome on my GitHub page ⚡</p>
 
 My name is Benjamin, you can find me as bpleutin in the 42 network. <br>
-I'm a bit of a perfectionist, so far I validated all my 42 projects with perfect score (you can find all of them in my 42 repository, except born2beroot since it's a virtual machine), and I intend to continue 😄
+I'm a bit of a perfectionist, so far I validated all my 42 projects with perfect score (you can find all of them in my 42 repository, except born2beroot since there's not much point in showing a basic virtual machine with basic settings), and I intend to continue 😄
 
 <!--
 **Thawnder/Thawnder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
