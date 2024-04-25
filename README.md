@@ -3,7 +3,7 @@
 #### My name is Benjamin, and I'm a student at 42 Perpignan, France. <br>
 #### In general I'm a bit of a perfectionist, I love the challenge of perfect completion, so much that I validated all my 42 Common Core projects with perfect score ! <br>
 
-## Check all of my 42 Common Core projects in [this repository](https://github.com/Thawnder/42).
+## Check out all of my 42 Common Core projects in [this repository](https://github.com/Thawnder/42).
 
 
 <!--
