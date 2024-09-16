@@ -5,7 +5,7 @@
 
 ## Check out all of my 42 Common Core projects in [this repository](https://github.com/Thawnder/42).
 
-## I also worked on Delta: The Fallen Kingdom, check out the [website](https://delta-fallen-kingdom.odoo.com/) !
+## I also worked on Delta: The Fallen Kingdom. Unfortunately, this project was abandoned, but if you're curious, check out the [Kickstarter page](https://www.kickstarter.com/projects/deltaprojectvr/delta-the-fallen-kingdom-vr-rpg-coop-adventure/description?ref=recommendation-projectpage-footer-3) !
 
 <!--
 **Thawnder/Thawnder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
