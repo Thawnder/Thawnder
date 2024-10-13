@@ -5,7 +5,9 @@
 
 ## Check out all of my 42 Common Core projects in [this repository](https://github.com/Thawnder/42).
 
-## I also worked on Delta: The Fallen Kingdom. Unfortunately, this project was abandoned, but if you're curious, check out the [Kickstarter page](https://www.kickstarter.com/projects/deltaprojectvr/delta-the-fallen-kingdom-vr-rpg-coop-adventure/description?ref=recommendation-projectpage-footer-3) !
+## I worked on a free mobile game called [CRISPR Crunch](https://playcurious.games/our-games/crispr-crunch/), and that gave me a bit of experience with the TypeScript language.
+
+## I also worked on [Delta: The Fallen Kingdom](https://www.kickstarter.com/projects/deltaprojectvr/delta-the-fallen-kingdom-vr-rpg-coop-adventure/description?ref=recommendation-projectpage-footer-3). Unfortunately, this project was abandoned, but I had a blast working on it, and it was the first Unity project I ever worked on.
 
 <!--
 **Thawnder/Thawnder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
